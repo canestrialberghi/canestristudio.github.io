@@ -116,12 +116,12 @@ p{
     }
     main{
         padding: 4em;
-        background: white url('css/images/bg.svg') no-repeat bottom right;
+        background: white url('images/bg.svg') no-repeat bottom right;
         background-size: 110%;
     }
     #avatar {
         border-radius: 50%;
-        background:#002060 url('css/images/accanestri.svg') no-repeat bottom center;
+        background:#002060 url('images/accanestri.svg') no-repeat bottom center;
         background-size: 150%;
         width: 70px;
         height: 70px;
