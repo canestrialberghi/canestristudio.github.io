@@ -116,9 +116,7 @@ p{
     }
     main{
         padding: 4em;
-        background: white url('<path id="Path_3" data-name="Path 3" d="M983.308,1015S850.859,739.013,1252.76,805.411s561.861-367,873.783-211.267,323.919-80.885,323.919-80.885V1015Z" transform="translate(-959.836 -513.132)" fill="#002060" stroke="#29a8f2" stroke-width="5"/>
-</svg>
-') no-repeat bottom right;
+        background: white url('images/bg.svg') no-repeat bottom right;
         background-size: 110%;
     }
     #avatar {
